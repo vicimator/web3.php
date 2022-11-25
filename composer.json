@@ -1,12 +1,16 @@
 {
-    "name": "web3p/web3.php",
-    "description": "Ethereum web3 interface.",
+    "name": "vicimator/web3.php",
+    "description": "PHP injected web3 interface.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "sc0Vu",
             "email": "alk03073135@gmail.com"
+        },
+        {
+            "name": "vicimator",
+            "email": "vicimatoring@gmail.com"
         }
     ],
     "require": {
